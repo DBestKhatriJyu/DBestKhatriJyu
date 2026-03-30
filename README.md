@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DBestKhatriJyu
+- 👋 Hi, I’m @Sagar
 - 👀 I’m interested in Reactjs
 - 🌱 I’m currently learning Reactjs
 
